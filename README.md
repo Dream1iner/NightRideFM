@@ -4,6 +4,7 @@ Console player for nightride.fm
 Source as well as prebuild bin is availiable here.
 
 You need ffmpeg to make this work:
+
 *brew install ffmpeg*
 
 Prebuilded binary tested on M1 mac under MacOS 12.7.3
