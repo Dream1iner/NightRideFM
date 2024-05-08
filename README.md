@@ -3,7 +3,11 @@ Console player for nightride.fm
 
 Source as well as prebuild bin is availiable here.
 
+You need ffmpeg to make this work:
+*brew install ffmpeg
+
 Prebuilded binary tested on M1 mac under MacOS 12.7.3
+Terminal app consumes around 1MB of RAM + 20MB for ffplay.
 
 Use command + C to stop listening to current station and pick another one.
 
