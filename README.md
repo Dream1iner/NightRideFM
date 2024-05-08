@@ -7,4 +7,5 @@ Prebuilded binary tested on M1 mac under MacOS 12.7.3
 
 Use command + C to stop listening to current station and pick another one.
 
-<img width="622" alt="image" src="https://github.com/Dream1iner/NightRideFM/assets/31440989/180ccdbb-9225-48be-a207-2ff62fcda3a9">
+<img width="618" alt="image" src="https://github.com/Dream1iner/NightRideFM/assets/31440989/3208dd12-67ee-4256-8ded-59e60499465c">
+
