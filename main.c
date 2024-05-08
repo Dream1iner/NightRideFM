@@ -50,12 +50,18 @@ void playStream(const char *url) {
     
     
     // Allocate memory for buffer dynamically
+    // this leads to issues with printing streamTitleValue...
+    
+    /*
     char *buffer = (char *)malloc(4096 * sizeof(char));
     if (buffer == NULL) {
         printf("Failed to allocate memory for buffer.\n");
         pclose(fp);
         return;
     }
+    */
+
+    char buffer[64000]; // This is to store ~1 second of 320kbps stream
 
 
     char streamTitle[256] = ""; 
