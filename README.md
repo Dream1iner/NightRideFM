@@ -1,7 +1,7 @@
 # NightRideFM
 Console player for nightride.fm 
 
-Source as well as prebuild bin is availiable here.
+Source ,as well as prebuild bin, is availiable here.
 
 You need ffmpeg to make this work:
 
